@@ -15,3 +15,8 @@ f = R * 0.299 + G * 0.587 + B * 0.114
 
 With this **f** can get a new color is **RGB(f, f, f)**. The color will be new image's pixel.
 Script get the image from chosen directory and based on this you can convert everyone image in all directories.
+
+<p>
+<img src="./start_images/start_image.jpg" width="300">
+<img src="./end_images/end_image.jpg" width="300">
+</p>
